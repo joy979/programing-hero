@@ -1,0 +1,101 @@
+body {
+    margin: 0%;
+    font-family: "Roboto", sans-serif;
+  }
+  h1 {
+    font-family: "Otomanopee One", sans-serif;
+    font-size: 50px;
+  }
+  h2 {
+    font-weight: 900;
+    font-size: 28px;
+  }
+  b {
+    color: brown;
+  }
+  p {
+    font-weight: 700;
+    color: darkslategray;
+    font-size: larger;
+    padding-bottom: 40px;
+  }
+  .flexible {
+    display: flex;
+  }
+  .welcome-banner {
+    padding-left: 60px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+  }
+  .Nutrient-banner {
+    background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+  }
+  .div-width {
+    text-align: justify;
+    width: 50%;
+    padding: 60px;
+  }
+  .text-padding {
+    padding-top: 7%;
+    text-align: justify;
+  }
+  img {
+    width: 83%;
+    border-radius: 3%;
+  }
+  span {
+    color: chocolate;
+  }
+  #care {
+    color: rgb(128, 24, 46);
+  }
+  #fix-padding {
+    padding-top: 25%;
+  }
+  .link-button {
+    font-size: larger;
+    font-weight: 700;
+    color: rgb(31, 17, 82);
+    text-decoration: none;
+    border-radius: 20px;
+    background-image: linear-gradient(#ff5733, #f8cc6f, chocolate);
+    padding: 2%;
+    box-shadow: 10px 10px 10px burlywood;
+  }
+  .center {
+    text-align: center;
+  }
+  .border-round {
+    width: 90%;
+    position: center;
+  }
+  .recipy-box {
+    width: 70%;
+    box-shadow: 15px 15px 40px black;
+    border-radius: 3%;
+    margin: 2%;
+  }
+  .div-width-recipy {
+    padding-top: 6%;
+    padding-left: 6%;
+    margin: 3%;
+    margin-left: 4%;
+    text-align: justify;
+  }
+  .main-content {
+    display: flex;
+    flex-basis: 50%;
+    padding: 10px 10px;
+    margin: 30px;
+  }
+  .copyright {
+    text-align: center;
+  }
+  footer {
+}
+.first-footer {
+  background: #111;
+  bottom: 0px;
+  width: 100%;
+} text
